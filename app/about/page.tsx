@@ -14,12 +14,17 @@ const page = () => {
             Hi again! Thanks for stopping by. If you're curious to learn more
             about me, well, here goes! I'm a Software Developer specializing in
             frontend development. I enjoy creating engaging and user-friendly
-            experiences on the web. Fluent in TypeScript and React, I strive to
-            deliver clean and accessible code while keeping the end user in
-            mind. Collaboration is where I truly shine. I thrive when bouncing
-            ideas off others and working together to solve problems. And when
-            I'm not immersed in the world of tech, you'll probably find me
-            buried in African literature or indulging in some sci-fi movie
+            experiences on the web.
+            <br />
+            <br />
+            Fluent in TypeScript and React, I strive to deliver clean and
+            accessible code while keeping the end user in mind. Collaboration is
+            where I truly shine. I thrive when bouncing ideas off others and
+            working together to solve problems.
+            <br />
+            <br />
+            And when I'm not immersed in the world of tech, you'll probably find
+            me buried in African literature or indulging in some sci-fi movie
             marathon. Oh, and here's a little secret: I actually made a career
             switch from Medicine to Software Development! But let's keep that
             between us 😉
