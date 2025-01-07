@@ -25,9 +25,9 @@ const socials = [
   },
   {
     icon: <Linkedin size={20} />,
-    href: "https://www.linkedin.com/in/oghenesuvwe-money-100b04228/",
+    href: "https://www.linkedin.com/in/suvwe-money-100b04228/",
     label: "LinkedIn",
-    handle: "Oghenesuvwe Money",
+    handle: "Suvwe Money",
   },
 ];
 
